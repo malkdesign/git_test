@@ -7,5 +7,11 @@ body{
 .hana img {
   border-radius: 50%;
   width: 300px;
-  height: auto;ß
+  height: auto;
+}
+
+.hogahoga img {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
 }
