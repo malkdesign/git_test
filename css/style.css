@@ -3,3 +3,8 @@
 body{
   background: #fffff7;
 }
+.kadomaru img{
+  border-radius: 30px;
+  width: 400px;
+  height: auto;
+}
