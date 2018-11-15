@@ -3,3 +3,9 @@
 body{
   background: #fffff7;
 }
+
+.hana img {
+  border-radius: 50%;
+  width: 300px;
+  height: auto;ß
+}
